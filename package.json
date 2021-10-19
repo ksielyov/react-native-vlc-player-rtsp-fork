@@ -1,0 +1,28 @@
+{
+  "name": "react-native-vlc-player-rtsp",
+  "version": "1.0.1",
+  "description": "A `<VLCPlayer>` component for react-native project clone from `react-native-yz-vlcplayer`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vlc",
+    "player",
+    "android",
+    "ios",
+    "react-native",
+    "mp4",
+    "rtsp"
+  ],
+  "author": "rmilinda@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razorRun/react-native-vlc-player.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razorRun/react-native-vlc-player/issues"
+  },
+  "homepage": "https://github.com/razorRun/react-native-vlc-player#readme"
+}
