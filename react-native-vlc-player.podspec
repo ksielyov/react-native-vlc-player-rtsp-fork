@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/razorRun/react-native-vlc-player.git" }
   s.source_files = 'ios/RCTVLCPlayer/*'
   s.platform     = :ios, "8.0"
-  s.static_framework = true  
+  s.static_framework = true
   s.dependency 'React'
   s.dependency 'MobileVLCKit-unstable', '3.0.0a44'
 end
